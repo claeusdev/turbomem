@@ -1,3 +1,5 @@
 # Turbomem
 
-A very simple cache implementation in c. 
+A straightforward cache implementation in c. 
+
+STILL WIP.
